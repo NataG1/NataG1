@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Natalia 
 
 **Economista | Data Scientist** apasionada por el análisis de datos para impacto social y sostenibilidad.  
-🔍 Enfoque: Python, R, SQL, machine learning y políticas públicas.
+🔍 Enfoque: machine learning, impacto social, ambiental .
 🔧 Stack: Python (Pandas, Scikit-learn), R, SQL. 
 🌱 Actualmente aprendiendo en Tripleten.
 📊 Uso datos para contar historias que impulsen cambio.  

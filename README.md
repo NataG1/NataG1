@@ -11,7 +11,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-- 🌱 Currently learning at **TripleTen**.  
+- 🌱 Data Scientist - Bootcamp certified at **TripleTen**.  
 - 📊 I use data to tell stories that drive change.  
 
 ## 📫 Get in touch  
